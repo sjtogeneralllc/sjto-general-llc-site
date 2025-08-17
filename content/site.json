@@ -1,0 +1,24 @@
+{
+  "name": "SJTO General LLC",
+  "tagline": "Reliable lawn care, landscaping & debris removal.",
+  "area": "Bryan/College Station and surrounding areas",
+  "hours": "Mon–Sat 7–6 · Sunday closed",
+  "phone": "979-324-0800",
+  "email": "sjtogeneralllc@gmail.com",
+  "address": "",
+  "about": "We’re a local team dedicated to keeping Bryan/College Station properties looking their best. From regular lawn maintenance to new landscape installs and debris removal, we deliver dependable work, clear communication, and fair pricing.",
+  "services": [
+    {
+      "title": "Lawn-care Maintenance",
+      "items": ["Lawn mowing", "Flowerbed maintenance", "Irrigation maintenance", "Fertilize"]
+    },
+    {
+      "title": "Landscape",
+      "items": ["Sod install", "Irrigation install", "Flower bed install"]
+    },
+    {
+      "title": "Debris Removal",
+      "items": ["Trash haul off", "Dump trailer rental"]
+    }
+  ]
+}
